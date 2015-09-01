@@ -1,0 +1,89 @@
+en
+damagehandler.rewarded.entity:§2You have been rewarded with §e§l<money>§2 for §e§l<percent>§2 percently killing this §e§l<entity>§2.
+damagehandler.rewarded.player:§2You have been rewarded with §e§l<money>§2 for §e§l<percent>§2 percently killing §e§l<playername>§2 player.
+damagehandler.punished.entity:§cYou have been punished for §e§l<money>§c for §e§l<percent>§c percently killing this §e§l<entity>§c.
+damagehandler.punished.player:§cYou have been punished for §e§l<money>§c for §e§l<percent>§c percently killing this §e§l<entity>§c.
+damagehandler.died.player:§e§l<playername>§b died for tooking the following damages:
+damagehandler.died.entity:§bA(n) §e§l<entity>§b died for tooking the following damages:
+damagehandler.report.nocauser:§e§l<type>§b damage ► §7<damage>§b(§e§l<percent>%§b)
+damagehandler.report.player:§e§l<type>§b damage from §e§l<playername>§b player ► §7<damage>§b(§e§l<percent>%§b)
+damagehandler.report.entity:§e§l<type>§b damage from §e§l<entity>§b ► §7<damage>§b(§e§l<percent>%§b)
+damagehandler.entity.unspecified:unspecified
+damagehandler.entity.player:player
+damagehandler.entity.bat:bat
+damagehandler.entity.chicken:chicken
+damagehandler.entity.cow:cow
+damagehandler.entity.horse:horse
+damagehandler.entity.mushroom_cow:mushroom_cow
+damagehandler.entity.ocelot:ocelot
+damagehandler.entity.pig:pig
+damagehandler.entity.rabbit:rabbit
+damagehandler.entity.sheep:sheep
+damagehandler.entity.snowman:snowman
+damagehandler.entity.squid:squid
+damagehandler.entity.villager_golem:villager_golem
+damagehandler.entity.wolf:wolf
+damagehandler.entity.villager:villager
+damagehandler.entity.enderdragon:enderdragon
+damagehandler.entity.witherboss:witherboss
+damagehandler.entity.blaze:blaze
+damagehandler.entity.cave_spider:cave_spider
+damagehandler.entity.creeper:creeper
+damagehandler.entity.enderman:enderman
+damagehandler.entity.endermite:endermite
+damagehandler.entity.ghast:ghast
+damagehandler.entity.giant:giant
+damagehandler.entity.guardian:guardian
+damagehandler.entity.lava_slime:lava_slime
+damagehandler.entity.pig_zombie:pig_zombie
+damagehandler.entity.silverfish:silverfish
+damagehandler.entity.skeleton:skeleton
+damagehandler.entity.slime:slime
+damagehandler.entity.spider:spider
+damagehandler.entity.witch:witch
+damagehandler.entity.zombie:zombie
+damagehandler.entity.fishing_hook:fishing_hook
+damagehandler.entity.arrow:arrow
+damagehandler.entity.small_fireball:small_fireball
+damagehandler.entity.fireball:fireball
+damagehandler.entity.snowball:snowball
+damagehandler.entity.thrown_enderpearl:thrown_enderpearl
+damagehandler.entity.eye_of_ender_signal:eye_of_ender_signal
+damagehandler.entity.thrown_egg:thrown_egg
+damagehandler.entity.thrown_potion:thrown_potion
+damagehandler.entity.thrown_exp_bottle:thrown_exp_bottle
+damagehandler.entity.firework:firework
+damagehandler.entity.item:item
+damagehandler.entity.minecart:minecart
+damagehandler.entity.boat:boat
+damagehandler.entity.primed_tnt:primed_tnt
+damagehandler.entity.falling_sand:falling_sand
+damagehandler.entity.hanging:hanging
+damagehandler.entity.armor_stand:armor_stand
+damagehandler.entity.xp_orb:xp_orb
+damagehandler.entity.ender_crystal:ender_crystal
+damagehandler.type.unspecified:unspecified
+damagehandler.type.in_fire:in_fire
+damagehandler.type.lighting_bolt:lighting_bolt
+damagehandler.type.on_fire:on_fire
+damagehandler.type.lava:lava
+damagehandler.type.in_wall:in_wall
+damagehandler.type.drown:drown
+damagehandler.type.starve:starve
+damagehandler.type.cactus:cactus
+damagehandler.type.fall:fall
+damagehandler.type.out_of_world:out_of_world
+damagehandler.type.generic:generic
+damagehandler.type.magic:magic
+damagehandler.type.wither:wither
+damagehandler.type.anvil:anvil
+damagehandler.type.falling_block:falling_block
+damagehandler.type.mob:mob
+damagehandler.type.player:player
+damagehandler.type.arrow:arrow
+damagehandler.type.fireball:fireball
+damagehandler.type.thrown:thrown
+damagehandler.type.indirect_magic:indirect_magic
+damagehandler.type.thorns:thorns
+damagehandler.type.explosion:explosion
+damagehandler.type.explosion_player:explosion_player
